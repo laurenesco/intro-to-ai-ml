@@ -1,0 +1,9 @@
+to deactivate anaconda:
+	run: conda deactivate
+	
+to activate anaconda:
+	run: source anaconda3/bin/activate
+	
+to start anaconda navigator:
+	have anaconda activated
+	run: anaconda-navigator
